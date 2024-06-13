@@ -25,5 +25,5 @@ def case() :
     if capital and small : print("String contains both lower and upper case characters")
     else :
         if capital : print("String contains only upper case characters")
-        else : print("String contains only lower case characters")
+        else : print("String contains only lower case characters.")
 case()

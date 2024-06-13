@@ -28,6 +28,6 @@ class Main :
             if age > 0 and age <= 12 : print("You are a child")
             elif age > 13 and age <= 19 : print("You are a teenage")
             elif age > 20 and age <= 39 : print("You are a young adult")
-            elif age > 40 and age <= 59 : print("You are a middle age")
+            elif age > 40 and age <= 59 : print("You are a middle age.")
             else : print("You are a senior")
 Main()

@@ -11,5 +11,5 @@ def bmi() :
         if bmi < 18.5 : print("Under Weight")
         elif bmi < 24.9 : print("Normal Weight")
         elif bmi < 36.5 : print("Over Weight")
-        else : print("Obese Weight")
+        else : print("Obese Weight.")
 bmi()

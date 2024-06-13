@@ -16,7 +16,7 @@ def discount() :
             elif gender == "female" and age < 25 :
                 print("Eligible for discount")
             else :
-                print("Not eligible for discount")
+                print("Not eligible for discount.")
         else :
             print("Please enter only male or female")
 discount()

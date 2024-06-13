@@ -12,5 +12,5 @@ def triples() :
     except ValueError as err : raise(err)
     else :
         if (a**2) + (b**2) == (c**2) : print("This number for a pythagorean triples")
-        else : print("This number is not for a pythagorean triples")
+        else : print("This number is not for a pythagorean triples.")
 triples()
